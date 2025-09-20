@@ -1,4 +1,4 @@
-# LightHE x NtKrnl32 Minecraft 服务器
+# Minecraft 服务器
 
 ## 加入
 
